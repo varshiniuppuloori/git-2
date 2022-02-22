@@ -11,3 +11,4 @@ Software Development Life Cycle (SDLC) is a process used by the software industr
 IP
 TCP
 DNS
+web page
