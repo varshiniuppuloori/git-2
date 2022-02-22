@@ -8,3 +8,4 @@ Css
 java
 sdlc
 Software Development Life Cycle (SDLC) is a process used by the software industry to design, develop and test high quality softwares. ... It is also called as Software Development Process. SDLC is a framework defining tasks performed at each step in the software development process.
+IP
